@@ -17,13 +17,13 @@
 </p>
 
 <p align="center">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/git/git-original.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/vim/vim-plain.svg">
-  <img height="30" src="https://raw.staticdn.net/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
