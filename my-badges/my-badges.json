@@ -1,0 +1,247 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/a9efc1deb6b1f8fd311038b0e0b0f25b7368ca51\"><strong>a</strong>9efc1deb6b1f8fd311038b0e0b0f25b7368ca51</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/ab2ba4e36ad936e00207f91e796c087b13d00d83\"><strong>ab</strong>2ba4e36ad936e00207f91e796c087b13d00d83</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/abc96fb332c64e42b3b3740243b1c4038eafea8c\"><strong>abc</strong>96fb332c64e42b3b3740243b1c4038eafea8c</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "bad-words",
+    "tier": 0,
+    "desc": "I used a word \"fuck\" in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/a2f5899bd062bf78ac46ef3ceb9eab508695d5e7\">a2f5899</a>: Update(Lab Two): complete lab two yahooo\n\nfucking bugs",
+    "image": "https://my-badges.github.io/my-badges/bad-words.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 5 times.",
+    "body": "- <a href=\"https://github.com/sabertazimi/bod/commit/67b430b1be00cafeb73c3908a71ee94d0944aa6e\">67b430b1be00<strong>cafe</strong>b73c3908a71ee94d0944aa6e</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/f0d758425906c4bcbe3c09fe0b879ccf80a6cafe\">f0d758425906c4bcbe3c09fe0b879ccf80a6<strong>cafe</strong></a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/afd29200645d8b06b13a07aba96cafe6e008a92c\">afd29200645d8b06b13a07aba96<strong>cafe</strong>6e008a92c</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/ed68cafe9b053445bae38aacf64266cc75105227\">ed68<strong>cafe</strong>9b053445bae38aacf64266cc75105227</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/701021aab8a1669e44a634012cafeb5f1bc898ca\">701021aab8a1669e44a634012<strong>cafe</strong>b5f1bc898ca</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/90b04cb3c93dfa1e753c00b5691878737b931d38\">90b04cb</a>: chore: change twitter to x",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/4cf8a71595b384070284cd79d4cd1a5c76f56eef\">4cf8a71</a>\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/d8f5884d7349576713b2a42e5a357e69c94a41fb\">d8f5884</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/39e8ad2485f9b959638d7d9d6e8d90240e9e595f\">39e8ad2</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/24a33bdd6a8436eee7aa8958abe11ab1eaccc334\">24a33bd</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/0f0bc8af220cc1f3f73854aaddce01bd344ac08b\">0f0bc8a</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/5bff80ae57541aa9cc34a7e0223377c12885ee0d\">5bff80a</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/sabertazimi/bod/commit/ee7916d018aef7076047e71a3f93669a38edead4\">ee7916d018aef7076047e71a3f93669a38e<strong>dead</strong>4</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/38143a26b9d2768f06dfd7061cc5a9dead65f54b\">38143a26b9d2768f06dfd7061cc5a9<strong>dead</strong>65f54b</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/1bf2fb5dc6f77bdd8b0e0d544f5edead6ca8d843\">1bf2fb5dc6f77bdd8b0e0d544f5e<strong>dead</strong>6ca8d843</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/fc29c32af8108bc1eab417be5384bb5210ea5660\">fc29c32</a>\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/acd73f3264beeb3b8d96d887a86f8235c411fecb\">acd73f3</a>\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/3229cff891cdceec3cf5d53db6e5d4a8d15a0d37\">3229cff</a>\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/c15c0e6e108250aa0f5d11fce7d76ab2d522f8d9\">c15c0e6</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/7c65a9f27ce79e248ebcb291a6da553156726838\">7c65a9f</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/b748cbf08b8296a72946dba9559e8354181f5600\">b748cbf</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/2844a86739ceb9cd91190863af2688323a845a55\">2844a86</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/b19077f1890d55c6cce11c193abdc0e7c5f7d782\">b19077f</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/2964304c08f66642b91cf288084f87171cd42b14\">2964304</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/955390bfc98f93c2e62e9ff89f60d9ae3614232a\">955390b</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/5e150282131c43ae646955008eb29667d498ae84\">5e15028</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/d9a2e332e997776c8bf0481e3f927e363bd0503c\">d9a2e33</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/255fa6f9f57648224720c34d39f5c50f3799cc6b\">255fa6f</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/6f11e8488b05793812da8530ec9eb2c2eb38373a\">6f11e84</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/849a1848e4758d0dd8a168fd04d5aec7035151cb\">849a184</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/a7bb3ceee487ec7d5fb09c3c06922fa6433d9707\">a7bb3ce</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/5c12cba24de75948b45f922d02240047d62ac0be\">5c12cba</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/c5631f0ab77af534a6cd7c5af68d485297036d9c\">c5631f0</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/3f7b3f989fd212b0664a7a136fed1ae1257d3cf8\">3f7b3f9</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/ff2cd6d02ee2a007aea7f122de7577c30188b388\">ff2cd6d</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/63f1f6d420f86e72cda48440afa8a75c369c597b\">63f1f6d</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/114b64aece7dc41f008bed7439367b6eb5f7d891\">114b64a</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/4c4d1888d78b2b3f5f39a2a21a08d361f9ef8c7b\">4c4d188</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/b2f9642eec5aea799208172ab1c27e045c6d0e46\">b2f9642</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/ca4d4b9d315a6d2c0c95bd6fd70dad8f2b40b59e\">ca4d4b9</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/def94a64049da559510de91d3695abb53d2310d6\">def94a6</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/0afb9141f7d57dfcb363cf144295a59dd9a91eb5\">0afb914</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/41ec6ba21fc78f31eb2935b3c7fad8a19a4a65d1\">41ec6ba</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/3a329c2fe6bf33c788573cc530fdcdfc5610af50\">3a329c2</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/6ba75b517993ffe2b509ab014f5a7102bade2cd2\">6ba75b5</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/f836472abcfb4b9fbce8c58f62c7991d1eb0376c\">f836472</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/cec440d6cbf48ad18ec6c7de6ccd1eb76c81fa78\">cec440d</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/622974cb94e083b07bd1b8c87b42f22132b79536\">622974c</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/9253ce3f669836e0d9a4548005063a4038c1eaa1\">9253ce3</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/ecdc6fe2f7d3e656fb31af970f5e199220da74f1\">ecdc6fe</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/79a9cd71342607260958e2b67db37098fef002e7\">79a9cd7</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/71a5c8f92da0e6c7ba0c7cbb6c92180159199aa7\">71a5c8f</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/a6b90d205e2ef1c9e05cfaf60918e47e6fdbe36c\">a6b90d2</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/875bf80df7512919aa4e0752029b5a684705aa35\">875bf80</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/a96a71cf3ef4e4ce1c85e9983c6f32669590c72d\">a96a71c</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/eda3ca73f2c04701ec1731a7c9c6f53f6a306181\">eda3ca7</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/aee2d971174c95b6fea6a7c77cb402423aebbb3d\">aee2d97</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/f111a04f394b20f9e019463a9be1137dca0e34c1\">f111a04</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/af25d6173bf03eb020e0927923a6a413c4ff37ba\">af25d61</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/5017edbce085737e4a57938c8c03e94af66a7184\">5017edb</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/8fbef4732784ffde1652502bb2383dc40d7acc1c\">8fbef47</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/bdeddd6c73a25bb77529631af6543a1864f329b7\">bdeddd6</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/140002c56810a263c96b9fa4d6eb9fe9767b7bf7\">140002c</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/b06e050f45c5ef479b63e347cb9ac555c733beb6\">b06e050</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/c826e8eda77f8d96cd5729e3df1b8e00cd07e678\">c826e8e</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/b98e9da8d99b1c72575636e8a3cb0135f3d07961\">b98e9da</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/a38be5c8748fe73fb7ae75e6c55191df8b0e172a\">a38be5c</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/0b52690d084dd54038e57ac09ac425046b844808\">0b52690</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/673f811c08cbbabe54bb7c73476a067bd135febc\">673f811</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/1e719914f4a9beddd2fdaca2c4da4c4f6312c3e6\">1e71991</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/1f94583f45a2f8ad545d7f1e3668c7fb4545241f\">1f94583</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/ba9ce05578e4798faba8e9546dce13c7ac261cd8\">ba9ce05</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/88256f6d2896fa071aeda3342f76b26e28f751fa\">88256f6</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/0a22e70e5a6c4c2ddb596d644983a37357efe953\">0a22e70</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/79ea5f75f1a515b1e8931b728b039e0d27c1d7f9\">79ea5f7</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/647163200a51b567e39713651b164ac72f3bdf26\">6471632</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/d2937cf1847c5265da4a2c4c43ca4a7d16f9f98a\">d2937cf</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/496c5d2673cbc0a18bab383aa47df99e2355b842\">496c5d2</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/1befd4f38875781789e989f213957f41d369a542\">1befd4f</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/769aa746e072c4c2aa8201ea7bae6ac39272e420\">769aa74</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/8e2f07af9e9b36e00e574237054e02d2acf72754\">8e2f07a</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/b05fa4c2c263fc4d174c7479c0f47d3595c71b9b\">b05fa4c</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/69a947a15d027e223d833444f9644df771084bc4\">69a947a</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/f19adbad56ccb6704f8bfcec9d2762bd29c94caf\">f19adba</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/333303619c38b09cdc9c46d2ff715268d85c4b40\">3333036</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/499b92b0dfae7c61b30cfbd86af122dde2476ea5\">499b92b</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/cbc8fae53cb958a95feff23e40abb79d3f4078a5\">cbc8fae</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/296682e35a66a018ddc2afd1479c7195ed17040c\">296682e</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/00efe30cacab251b6136ef878198d39d8cf48cca\">00efe30</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/a8965a76326ef7d691892a5554660d2c2797b555\">a8965a7</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/af7fcd62469667cbc7893f324350eb2c08fc22bd\">af7fcd6</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/bf57a1ad99aeefe7e5ddc680b885c909e0817f57\">bf57a1a</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/c9ec1be42980cbe654c624744561753d27b8d636\">c9ec1be</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/0f3d89d49aa3ffc5e08fc6c869f078a977300239\">0f3d89d</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/3c96e0f8fe1903a87ef4b6aa2f3cbbee7bb7e9ba\">3c96e0f</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/7457703daba9e0dc87d48f43a8b9f6c0cb40cdc4\">7457703</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/a67e10c9e32d82986e89260a740f8645d40569bd\">a67e10c</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/cc4c4eede60f5b4a968228f1576afba32af439d8\">cc4c4ee</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/ac0370d5e5ac72b6cc65bb5f8afd0e5568616c2f\">ac0370d</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/d690e44af58d9b913acb197d15ecf2ac1fc495ec\">d690e44</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/3139c4acc57fac5d04449e258af9d13f50c8bffb\">3139c4a</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/fa4ae1b9e68c9f6c6bb89cdd77a16bdac292f1af\">fa4ae1b</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/79456cf492c5d9574533c439ad035857b315290c\">79456cf</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/857fb89e6355f901ebaf0e5584820f346faf10f7\">857fb89</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/5634e2ba06f0453b6afd59c694ef41513fbf6ffa\">5634e2b</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/2270bb2ac7e2dd6ff44c4d68a14a3e78e10d8215\">2270bb2</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/d570209859dded894dea22e5a83ed977019b5b42\">d570209</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/860815ceb385ffe97b9a8879241a038be8564c68\">860815c</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/8debb771ac2e2b80c010ceea20250d7279a6b9a9\">8debb77</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/b35e6e3549e3f88d65265192931835bc518521f7\">b35e6e3</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/2aeaa1f0827d2464fdc19e52784e4b8bc9fe8a7c\">2aeaa1f</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/3d53c653fd7aacf308e4b5dbfea99ba2b3b217dd\">3d53c65</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/f0e6a008bbf842957494586e663c34af10557d35\">f0e6a00</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/87ae4e5cbd8c80e98edc41591fa404b0909bc363\">87ae4e5</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/29eeaa18a0fc263f9e949bae0b26b73ad65dc973\">29eeaa1</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/d0c4ae752107238e6d00248c111ea39e9307fcd8\">d0c4ae7</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/9380b4b5f9686a1be762dee441726c09546c5608\">9380b4b</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/6d868b91b616f8dbb41f4a6a7c18e01023e30be8\">6d868b9</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/18e75aa9023c98fc8fb279d784ad6c9b78240e2a\">18e75aa</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/d3cdcc8ff302e373d42377ace82d9176fa076cfe\">d3cdcc8</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/f25d622e409e94a325c5e9ff1b342a2daeb2f11d\">f25d622</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/c4af5d20f6127eeb453a5812cc0a2099a723d4b9\">c4af5d2</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/17b4cacc2df844300c6ff3099fd3fe3c5bcf7c47\">17b4cac</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/8031e80eb92ef654ebfb335e82f61165e65e9aad\">8031e80</a>\n- <a href=\"https://github.com/sabertazimi/hust-lab/commit/ac8799dc641301b4509affeebf54f18336fd507b\">ac8799d</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/b6c0927b91ad04cfcaa8d4a26099b5a7d56f417f\">b6c0927</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/00e41a5a7d2d512cc3b72b290303b33932bb1f3e\">00e41a5</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/93ec751f58a6ee41b182c46258c3948845d3239a\">93ec751</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"issue\".",
+    "body": "My favorite commit message words are:\n\n1. issue (used 4407 times)\n2. add (used 1642 times)\n3. sabertazimi/awesome-notes#105 (used 754 times)\n4. code (used 684 times)\n5. bump (used 678 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/4fb13151942f76a72a36e3982fae16b716d697bb\">4fb1315</a>: fix(rust-basis): rectify clippy warnings\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/dd226b78bff662292517855c0dd15276d5d78998\">dd226b7</a>: fix(rust-basis): remove redundant pattern matching (#16)",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/6aaf1aef76aa75fee7ac1c088a2724479e754501\">6aaf1ae</a>: fix(rustlings): add `advanced_errors` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/d1d48bcd1ea1fb76e498442c9aee3a52cc0527c5\">d1d48bc</a>: fix(rustlings): add `conversions` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/4364e2895fc0c21d0b66fcd4ec29ee7ce40d70f3\">4364e28</a>: fix(rustlings): add `clippy` solutions",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 17 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/8510ac34494596eaa168aa5c5958c0ae3d8007a1\">8510ac3</a>: fix(rustlings): add `standard_library_types` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/4a5e89f8b273507b71d845c83655f627a8bb879d\">4a5e89f</a>: fix(rustlings): add `quiz3` solution\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/c9ccf2c3e7aa306951816b228e8f1bf10e04967f\">c9ccf2c</a>: fix(rustlings): add `tests` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/c9de8189311756f8c68ba1a2a141200eeefaa5e0\">c9de818</a>: fix(rustlings): add `traits` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/7e4bf85ff06f0a6c1730a5e002fdbd9f2cbb3ea1\">7e4bf85</a>: fix(rustlings): add `option` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/32e301b496b2ef4ab324a4d28d037fc328c93d15\">32e301b</a>: fix(rustlings): add `generics` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/767d53ce964f03de93f19318ae046edf3c08aa38\">767d53c</a>: fix(rustlings): add `error_handling` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/22d62faa1d03234d77d8a5031d6d0fec1b745660\">22d62fa</a>: fix(rustlings): add `collections` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/84e0ea2368f1c5f3931d894750794e9798f0b4b1\">84e0ea2</a>: fix(rustlings): add `modules` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/b8300e4f29d922cd669f7d6ca3e3655d809c2128\">b8300e4</a>: fix(rustlings): add `enums` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/3abb8c47bd09aeec9692c7491d0268a79c5aebeb\">3abb8c4</a>: fix(rustlings): add `structs` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/27b93178df54d3d76be2992160c731772938eb6e\">27b9317</a>: fix(rustlings): add `primitive_types` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/2511c42c12ebbca814c124db2009cf779bef506b\">2511c42</a>: fix(rustlings): add `quiz2` solution\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/d431a3507f6ed165eddec0a1869457d6329dcab4\">d431a35</a>: fix(rustlings): add `move_semantics` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/4afe9ca8844210b5388c73815091e2178c37b1e8\">4afe9ca</a>: fix(rustlings): add `quiz1` solution\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/441032150808da32d9aedace392cc8e90ec82fb0\">4410321</a>: fix(rustlings): add `if` solutions\n- <a href=\"https://github.com/sabertazimi/awesome-rust/commit/fca4c749c96c2f84b3fa349395633afb9a479d12\">fca4c74</a>: fix(rustlings): add `functions` solutions",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/.github/commit/2349bc0c31758ce4ee7d4cb13ca37e32e47a51d1\">2349bc0</a>: fix: update pull request template\n- <a href=\"https://github.com/sabertazimi/.github/commit/1824ceb8a5e19167336a5b2452af54c1f7ece768\">1824ceb</a>: fix: remove default title for issue template\n- <a href=\"https://github.com/sabertazimi/.github/commit/451990c25c1dda90175d093b33544563e6927d23\">451990c</a>: fix: add contact links for issue template\n- <a href=\"https://github.com/sabertazimi/.github/commit/19f9c3a8555e5c0dc4ad44dc8f1077c2a6693c1b\">19f9c3a</a>: fix: disable blank issue template",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/94973991a7216a0656f8dbb296835d7f56352350\">9497399</a>: fix(vue-challenges): `markRaw` and `toRaw` API\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/6ba75e135f31a3e9d13de3099fc48f622f928551\">6ba75e1</a>: fix(vue-challenges): shallow ref\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/0fc1638cd9aed1b2123181cd0005e3d85c123878\">0fc1638</a>: fix(vue-challenges): complete watch family\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/772b53deb33972f035b944f613223a7b94e58d12\">772b53d</a>: fix(vue-challenges): writable computed value\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/835c5f7b931d5d487456d652cfb72e919d3cdc11\">835c5f7</a>: fix(vue-challenges): complete losing reactivity challenge",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/dab0c7be344a0bf6c1c13fb7146924b074d83785\">dab0c7b</a>: fix(Vue-vuex): computed value from vuex state\n\n- Wrap `useStore` to `useAppStore` for types inference.\n- Passing computed value from vuex state to template.\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/4d2cd90f68956101024aad1c40910b24af5665d7\">4d2cd90</a>: fix(Vue-vuex): add TypeScript types for vuex\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/d8a9f8503cd4bf1f4403df1e7d7f42ad5e0b2ba8\">d8a9f85</a>: fix(Vue-tailwind): add `.btn` and `.router-link` tailwind components\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/e50ff69757b80ed3c413c1f00131bf0c71d4cb78\">e50ff69</a>: fix(vue-routes): add nested router view\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/96de3ea94c0fb7fa9afe3e31ba5a9c8f8251ff7d\">96de3ea</a>: fix(vite-alias): change `@` to `src` alias path\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/ab6d14d25d768ecb175d1c4eeec276f3773fd469\">ab6d14d</a>: fix(vue-trello): load board state from local storage",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/487046fbd8bf28a439ab3a46d1ae56174659c4a0\">487046f</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/2e813731a284a333f68e9cf76f9cddd0cbc9d6b5\">2e81373</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/2dcf17972e401aad429d4d48ebdb7522be9645dc\">2dcf179</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/23f165ec1078e876af8963cadeec844b48c214bd\">23f165e</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/c74b9f23f1dda3ceec6ad1c6217ce9682ae6cfff\">c74b9f2</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/de46b9d25cb829fb97245dd6199b000d398afe09\">de46b9d</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/2b40ee65a61360fca25ff64ce149908ab0df3a55\">2b40ee6</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/37017aecb89998decf8a639fab0c5cd0a159a657\">37017ae</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/ec628ac64639cdf6a3d5b8477269ae541211ab4b\">ec628ac</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/27d6fda7f0ad4f10f6c44315d948a5d52025e896\">27d6fda</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/6c753cefd15f64dcf13ab9641dfec00636bd7078\">6c753ce</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/fd4bc1f9644878d5d3277b83b60dbf00560e94a7\">fd4bc1f</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/31c0e41082b302b91e4c5fb3a329dd6d8b2f2990\">31c0e41</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/27c7e66d98118202e78d75e4e2103de4251e3912\">27c7e66</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/f0f18f4aaa4ec621c2ee5b5ef3466056c67cb42d\">f0f18f4</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/b670266a9dc86e4954d44567095d817fd35fb81d\">b670266</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/4cf95d838c3ff638d6bc6acd601159c29abeb3f4\">4cf95d8</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/bf8e935a4943b18701805d03df027e7300c06479\">bf8e935</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/1c86894c614ec437cb574d8f148aaf77d42ed96b\">1c86894</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/blog/commit/8803c88710318e25497b1ba91d67cb40a4ab5c5e\">8803c88</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/issues/27\">#27</a>: TODO: Operating Systems Learning\n- <a href=\"https://github.com/sabertazimi/awesome-notes/issues/25\">#25</a>: TODO: Compilers Learning\n- <a href=\"https://github.com/sabertazimi/awesome-notes/issues/88\">#88</a>: TODO: Algorithms Learning",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/issues/105\">#105</a>: WIP: Today I Learned",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/wasabeef/awesome-android-ui/issues/96\">#96</a>: Add Material Drawer and Material Animations lib\n- <a href=\"https://github.com/jmalicevic/EverythingGraph/issues/3\">#3</a>: Infinite loop and segmentation fault bug for bfsgrid_cilk algorithm\n- <a href=\"https://github.com/sabertazimi/bod/issues/39\">#39</a>: Bug: caniuse-lite outdated problem\n- <a href=\"https://github.com/nihgwu/react-runner/issues/123\">#123</a>: [Feature]: Add React 18 support for `react-live-runner`",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/f8799def8db891c353849f2bb68a6d00c8e47df6\">f8799de</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/ee4fe982aa761c951687d5db7af0f7a49d927741\">ee4fe98</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/507a9418d1fe66734ab6307c0a08e4d6b60941b0\">507a941</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/cf2696df0f9d9aae7bfdc8bfc2316c21ba9f06bc\">cf2696d</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/d30b7d560f9cb2acd4a0a01b72b253a459513b7f\">d30b7d5</a>\n- <a href=\"https://github.com/sabertazimi/OJs/commit/8c30bdc4b84fa6dd4220232f8b42c5395e9e1d33\">8c30bdc</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/2b2b63101a4c08d92bd98b7e9815832cfe10076b\">2b2b631</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/852ca770c04f0ebbbf320137f9ae182f94ff340c\">852ca77</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/bf8d6444315f8d7065830841f906c3c6d18dc5c7\">bf8d644</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/9a47caf4bdb80b05c76fba581b8ad7b8a7bb7ebe\">9a47caf</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/f5309fef5fcff4586602df8f1bdc117c10f6f765\">f5309fe</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/6d27673ffd6c76530678082467e755ebb6ce9813\">6d27673</a>\n- <a href=\"https://github.com/sabertazimi/awesome-web/commit/0d6621d9ac1858cca0896d1f08eb2b6b9e2d5217\">0d6621d</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/415f5b6d360f49469fe1c13e2bf6ed21336abce9\">415f5b6</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/6a1dd189bbfcaefc0efb01f8f353c9f4bc3649d3\">6a1dd18</a>\n- <a href=\"https://github.com/sabertazimi/OJs/commit/82824db9be453f827ab52e5d47aa02361ed9a40a\">82824db</a>\n- <a href=\"https://github.com/WebPRs/hust-web/commit/b764c5e22b9c90ea35b9c575c3f03a7f99cb1303\">b764c5e</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/sabertazimi/awesome-notes\">sabertazimi/awesome-notes: ★44</a>\n* <a href=\"https://github.com/sabertazimi/hust-lab\">sabertazimi/hust-lab: ★31</a>\n* <a href=\"https://github.com/sabertazimi/LaTeX-snippets\">sabertazimi/LaTeX-snippets: ★15</a>\n* <a href=\"https://github.com/sabertazimi/dragon-zsh-theme\">sabertazimi/dragon-zsh-theme: ★13</a>\n* <a href=\"https://github.com/sabertazimi/dblp\">sabertazimi/dblp: ★9</a>\n* <a href=\"https://github.com/sabertazimi/bod\">sabertazimi/bod: ★5</a>\n* <a href=\"https://github.com/sabertazimi/awesome-web\">sabertazimi/awesome-web: ★4</a>\n* <a href=\"https://github.com/sabertazimi/OJs\">sabertazimi/OJs: ★2</a>\n* <a href=\"https://github.com/WebPRs/hust-web\">WebPRs/hust-web: ★2</a>\n* <a href=\"https://github.com/sabertazimi/tex-boilerplate\">sabertazimi/tex-boilerplate: ★2</a>\n* <a href=\"https://github.com/sabertazimi/sabertazimi.github.io\">sabertazimi/sabertazimi.github.io: ★1</a>\n* <a href=\"https://github.com/sabertazimi/sabertazimi\">sabertazimi/sabertazimi: ★1</a>\n* <a href=\"https://github.com/sabertazimi/dotfiles\">sabertazimi/dotfiles: ★1</a>\n* <a href=\"https://github.com/sabertazimi/.github\">sabertazimi/.github: ★1</a>\n* <a href=\"https://github.com/sabertazimi/awesome-rust\">sabertazimi/awesome-rust: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/sabertazimi/awesome-notes/issues/42\">#42</a>\n- <a href=\"https://github.com/sabertazimi/blog/issues/42\">#42</a>\n- <a href=\"https://github.com/sabertazimi/.github/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/bod/commit/7c65a9f27ce79e248ebcb291a6da553156726838\">7c65a9f</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/c98290e1b374fdcffa21acd39ab8dac42d8d156d\">c98290e</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/8689397599413ebffabbbb3c9fb6876b3c30513d\">8689397</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/447215eb7c7a2c55d8f4a02a84c3843bccc3adee\">447215e</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/1e9e03473376edf8f03df52729c82fb62ebda5e5\">1e9e034</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/5baadcbcac55df1ef5dde4737c7d631fdeb3fadd\">5baadcb</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/bdaa813916e564edeb9de92bc25d4a38ca65c231\">bdaa813</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/96162b58c13157816fda08c7bf6818801d4215ad\">96162b5</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/fc14c33380be4ce1edb48ac0c9d1d44d9105beb4\">fc14c33</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/e967670c247e67529dad3f84e78603a86b7aec4d\">e967670</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/ebca9e4173e509c9f7f0ed212ba18402b5c9d774\">ebca9e4</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/5b3f9d989712a607d06b0288afc257978b9734fa\">5b3f9d9</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/1eeb040632fd9e010ad12a5ff81f05dc9cfdfca7\">1eeb040</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/aa3163fffeb7499591fdd14039512151b9bbc954\">aa3163f</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/cb81d654bf9d50dd23aef4d58167a6c21956e26c\">cb81d65</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/3944e45e9f63dba0b592f62887624723f7ccc6e3\">3944e45</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/92e9f754fe46a7027730b8075a81ce1089f3b9d8\">92e9f75</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/bf112f24449dd3e889ed86a2912d4da3051da722\">bf112f2</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sabertazimi/blog/commit/97e01d8a6833e2ddc33cef55d856958521b093d5\">97e01d8</a>\n- <a href=\"https://github.com/sabertazimi/awesome-notes/commit/9def9c53b5918991f78374f9bd458e024633720d\">9def9c5</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/928d73d9c0d3ad6cb6ba9a0034a0797fdfa46697\">928d73d</a>\n- <a href=\"https://github.com/sabertazimi/blog/commit/cbb422c02297c02a7b4777b07cfe688288447baf\">cbb422c</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/c07f1ec0e6569a3858b49c451f2cbacbbafb369f\">c07f1ec</a>\n- <a href=\"https://github.com/sabertazimi/bod/commit/d5e9fb5aa1a00ce54f574de45a3af25082428eea\">d5e9fb5</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
