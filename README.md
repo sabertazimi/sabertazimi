@@ -17,11 +17,14 @@
 </p>
 
 <p align="center">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="NeoVim">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode">
+  <img height="48" src="https://cdn.simpleicons.org/typescript/3178c6?viewbox=auto" alt="TypeScript">
+  <img height="48" src="https://cdn.simpleicons.org/react/61dafb?viewbox=auto" alt="React">
+  <img height="48" src="https://cdn.simpleicons.org/vuedotjs/4fc08d?viewbox=auto" alt="Vue">
+  <img height="48" src="https://cdn.simpleicons.org/nodedotjs/5fa04e?viewbox=auto" alt="Node.js">
+  <img height="48" src="https://cdn.simpleicons.org/neovim/57a143?viewbox=auto" alt="NeoVim">
+  <img height="48" src="https://cdn.simpleicons.org/cursor/000000/ffffff?viewbox=auto" alt="Cursor">
+  <img height="48" src="https://cdn.simpleicons.org/claude/d97757?viewbox=auto" alt="Claude">
+  <img height="48" src="https://cdn.simpleicons.org/ubuntu/e95420?viewbox=auto" alt="Ubuntu">
 </p>
 
 <p align="center">
