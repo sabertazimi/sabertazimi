@@ -4,6 +4,7 @@
 
 Issues:
 
+- <a href="https://github.com/sabertazimi/awesome-notes/issues/104">#104</a>: TODO: System and Architecture Learning
 - <a href="https://github.com/sabertazimi/awesome-notes/issues/105">#105</a>: WIP: Today I Learned
 
 

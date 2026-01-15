@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/sabertazimi/awesome-notes">sabertazimi/awesome-notes: ★44</a>
+* <a href="https://github.com/sabertazimi/blog">sabertazimi/blog: ★45</a>
 * <a href="https://github.com/sabertazimi/hust-lab">sabertazimi/hust-lab: ★31</a>
 * <a href="https://github.com/sabertazimi/LaTeX-snippets">sabertazimi/LaTeX-snippets: ★15</a>
 * <a href="https://github.com/sabertazimi/dragon-zsh-theme">sabertazimi/dragon-zsh-theme: ★13</a>

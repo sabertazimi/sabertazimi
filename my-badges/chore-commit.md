@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/awesome-rust/commit/90b04cb3c93dfa1e753c00b5691878737b931d38">90b04cb</a>: chore: change twitter to x
+- <a href="https://github.com/sabertazimi/claude-code/commit/e1d60af3eab5739c8caed80ca09ed144d653f2e8">e1d60af</a>: chore(claude): set default mode to plan
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
