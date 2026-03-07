@@ -25,7 +25,6 @@
   <img height="48" width="48" src="https://cdn.simpleicons.org/cursor/000000/ffffff" alt="Cursor">
   <img height="48" width="48" src="https://cdn.simpleicons.org/claude/d97757" alt="Claude">
   <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/ubuntu/e95420" alt="Ubuntu">
 </p>
 
 <p align="center">
