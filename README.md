@@ -17,14 +17,13 @@
 </p>
 
 <p align="center">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/neovim/57a143" alt="NeoVim">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/claude/d97757" alt="Claude Code">
   <img height="48" width="48" src="https://cdn.simpleicons.org/typescript/3178c6" alt="TypeScript">
   <img height="48" width="48" src="https://cdn.simpleicons.org/react/61dafb" alt="React">
   <img height="48" width="48" src="https://cdn.simpleicons.org/vuedotjs/4fc08d" alt="Vue">
   <img height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs/5fa04e" alt="Node.js">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/neovim/57a143" alt="NeoVim">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/cursor/000000/ffffff" alt="Cursor">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/claude/d97757" alt="Claude">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux">
 </p>
 
 <p align="center">
