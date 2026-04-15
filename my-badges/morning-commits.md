@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/blog/commit/91fe839b9159efbc6bb257e7e7ff7faf070c3c6c">91fe839</a>
-- <a href="https://github.com/sabertazimi/blog/commit/8ac76be78ab2220a3426d5eb2453f4481b404e5b">8ac76be</a>
-- <a href="https://github.com/sabertazimi/awesome-notes/commit/589ec9d0f44cf3219b386922023eded076f25f22">589ec9d</a>
-- <a href="https://github.com/sabertazimi/awesome-web/commit/d40da95fe6b98298d6561684261da480ff3297cb">d40da95</a>
-- <a href="https://github.com/sabertazimi/awesome-notes/commit/9cbb9b915e3cb734198b5dcb4f606bdfbb2fcd1b">9cbb9b9</a>
-- <a href="https://github.com/sabertazimi/awesome-notes/commit/a9eaa18c5b12fde3363eb2e1d671951fda78ec3e">a9eaa18</a>
+- <a href="https://github.com/sabertazimi/notes/commit/c3049174e495a18a92e7375b76cff0fb44b33057">c304917</a>
+- <a href="https://github.com/sabertazimi/dotfiles/commit/25ab636281b326d8abe6a8352153eddf26aab30d">25ab636</a>
+- <a href="https://github.com/sabertazimi/notes/commit/4263e1c2db09a1b9a72634fcbfdcdedcca4fd6fb">4263e1c</a>
+- <a href="https://github.com/sabertazimi/dotfiles/commit/e81dc5dbdf1fa83f70cb6fb7b37088721aea9f09">e81dc5d</a>
+- <a href="https://github.com/sabertazimi/dotfiles/commit/17ecfdf820f58ad2baf1f87d2a0100037a2a235e">17ecfdf</a>
+- <a href="https://github.com/sabertazimi/dotfiles/commit/a79116bbee573a3f2e3bed20bbe7a56b7d174797">a79116b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

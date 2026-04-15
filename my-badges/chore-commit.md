@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/claude-code/commit/e1d60af3eab5739c8caed80ca09ed144d653f2e8">e1d60af</a>: chore(claude): set default mode to plan
+- <a href="https://github.com/sabertazimi/skills/commit/29751299eccffbd4150dbcec430c8abd5762883d">2975129</a>: chore(agent): replace `CLAUDE.md` with `AGENTS.md` symlink
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

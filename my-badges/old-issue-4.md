@@ -4,8 +4,8 @@
 
 Issues:
 
-- <a href="https://github.com/sabertazimi/awesome-notes/issues/103">#103</a>: TODO: C++ Learning
-- <a href="https://github.com/sabertazimi/awesome-web/issues/1">#1</a>: Modern Web Projects
+- <a href="https://github.com/sabertazimi/notes/issues/103">#103</a>: TODO: C++ Learning
+- <a href="https://github.com/sabertazimi/lab/issues/1">#1</a>: Modern Web Projects
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

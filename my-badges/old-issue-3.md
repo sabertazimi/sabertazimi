@@ -4,8 +4,8 @@
 
 Issues:
 
-- <a href="https://github.com/sabertazimi/awesome-notes/issues/104">#104</a>: TODO: System and Architecture Learning
-- <a href="https://github.com/sabertazimi/awesome-notes/issues/105">#105</a>: WIP: Today I Learned
+- <a href="https://github.com/sabertazimi/notes/issues/104">#104</a>: TODO: System and Architecture Learning
+- <a href="https://github.com/sabertazimi/notes/issues/105">#105</a>: WIP: Today I Learned
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/awesome-notes/commit/515e676cce3bb3250026a53027eddf13532a017a">515e676</a>
+- <a href="https://github.com/sabertazimi/notes/commit/a9f7b5069dd6c73894b89586ef8b28bde07763d0">a9f7b50</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

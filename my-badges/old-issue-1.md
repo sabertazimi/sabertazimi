@@ -4,8 +4,8 @@
 
 Issues:
 
-- <a href="https://github.com/sabertazimi/awesome-notes/issues/101">#101</a>: TODO: CG & Game Dev
-- <a href="https://github.com/sabertazimi/awesome-notes/issues/102">#102</a>: Security Learning
+- <a href="https://github.com/sabertazimi/notes/issues/101">#101</a>: TODO: CG & Game Dev
+- <a href="https://github.com/sabertazimi/notes/issues/102">#102</a>: Security Learning
 - <a href="https://github.com/kirliavc/psscript/issues/4">#4</a>: 请问可以把脚本发布到 greasyfork.org 上去吗？
 
 
