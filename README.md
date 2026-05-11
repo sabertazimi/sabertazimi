@@ -17,13 +17,27 @@
 </p>
 
 <p align="center">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/neovim/57a143" alt="NeoVim">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/claude/d97757" alt="Claude Code">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/typescript/3178c6" alt="TypeScript">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/react/61dafb" alt="React">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/vuedotjs/4fc08d" alt="Vue">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs/5fa04e" alt="Node.js">
+  <a style="text-decoration:none" href="https://notes.tazimi.dev/programming/linux/arch">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux">
+  </a>
+  <a style="text-decoration:none" href="https://github.com/sabertazimi/dotfiles">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/neovim/57a143" alt="NeoVim">
+  </a>
+  <a style="text-decoration:none" href="https://notes.tazimi.dev/ai/agent/claude-code">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/claude/d97757" alt="Claude Code">
+  </a>
+  <a style="text-decoration:none" href="https://github.com/sabertazimi/bod">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/typescript/3178c6" alt="TypeScript">
+  </a>
+  <a style="text-decoration:none" href="https://blog.tazimi.dev">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/react/61dafb" alt="React">
+  </a>
+  <a style="text-decoration:none" href="https://lab.tazimi.dev">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/vuedotjs/4fc08d" alt="Vue">
+  </a>
+  <a style="text-decoration:none" href="https://github.com/sabertazimi/lab">
+    <img height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs/5fa04e" alt="Node.js">
+  </a>
 </p>
 
 <p align="center">
