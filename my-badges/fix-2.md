@@ -4,15 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/skills/commit/c9a521361a09b72820fbeac468cdd2f3c945e9af">c9a5213</a>: fix(skills-commits): deny git add tool and add staged changes check
-
-- Remove Bash(git add:*) from allowed-tools
-- Handling edge case: prompt user when no files are staged
-- <a href="https://github.com/sabertazimi/skills/commit/816cadfe684657764243db071fc70f160b132728">816cadf</a>: fix(skills-commits): clarify project preference priority in workflow
-
-- Add explicit note that project preferences override default format
-- Reorder preference checking items for logical flow
-- Clarify fallback behavior when preferences are undefined
+- <a href="https://github.com/sabertazimi/.github/commit/e465e7384c333de8c5ac9662bcc52b4722cb3bbd">e465e73</a>: fix(issues-template): set pnpm to default option
+- <a href="https://github.com/sabertazimi/.github/commit/a04f6acdef9374a37c7bab04db95d87e0e5ce293">a04f6ac</a>: fix(issue-feature): add feature label
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

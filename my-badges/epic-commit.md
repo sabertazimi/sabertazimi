@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/sabertazimi/lab/commit/96cd53ac4db637c0b0c67abc9bca0b4104876f06">96cd53a</a>
+- <a href="https://github.com/sabertazimi/lab/commit/591ed535a39aa9bc28329b783c9702bab7715a9d">591ed53</a>
 - <a href="https://github.com/sabertazimi/lab/commit/32ef88c8589dff5ad92dc7512ff508444e3a394d">32ef88c</a>
 - <a href="https://github.com/sabertazimi/lab/commit/5c8ae65917792efbf3db6f3026cc934113314cec">5c8ae65</a>
 - <a href="https://github.com/sabertazimi/lab/commit/f6c15bde886c78c05c05906ca098cf65d6d40c8b">f6c15bd</a>
@@ -26,6 +28,7 @@ Commits:
 - <a href="https://github.com/sabertazimi/lab/commit/acd73f3264beeb3b8d96d887a86f8235c411fecb">acd73f3</a>
 - <a href="https://github.com/sabertazimi/lab/commit/3229cff891cdceec3cf5d53db6e5d4a8d15a0d37">3229cff</a>
 - <a href="https://github.com/sabertazimi/lab/commit/c15c0e6e108250aa0f5d11fce7d76ab2d522f8d9">c15c0e6</a>
+- <a href="https://github.com/sabertazimi/bod/commit/34d4559fb237fed56acee56cb26b93661b0015fc">34d4559</a>
 - <a href="https://github.com/sabertazimi/bod/commit/c33b2be5c2eb20b6eb97afeb1844d2036571be65">c33b2be</a>
 - <a href="https://github.com/sabertazimi/bod/commit/0dc8af5a3bae44ced9b2a03ebdcf63f2c3f012ea">0dc8af5</a>
 - <a href="https://github.com/sabertazimi/bod/commit/ce97c26f06c73878800762e05461164090f52b9d">ce97c26</a>
@@ -50,6 +53,9 @@ Commits:
 - <a href="https://github.com/sabertazimi/blog/commit/a7bb3ceee487ec7d5fb09c3c06922fa6433d9707">a7bb3ce</a>
 - <a href="https://github.com/sabertazimi/blog/commit/5c12cba24de75948b45f922d02240047d62ac0be">5c12cba</a>
 - <a href="https://github.com/sabertazimi/blog/commit/c5631f0ab77af534a6cd7c5af68d485297036d9c">c5631f0</a>
+- <a href="https://github.com/sabertazimi/dotfiles/commit/c12f18e9adae76cbf25458af9e8910e9f8932fc3">c12f18e</a>
+- <a href="https://github.com/sabertazimi/dotfiles/commit/00c3782dd889ed990d66b7178d97b65c027c9883">00c3782</a>
+- <a href="https://github.com/sabertazimi/dotfiles/commit/d7d38bbdb70bffde8d554ce485161b9245219729">d7d38bb</a>
 - <a href="https://github.com/sabertazimi/dotfiles/commit/ca31904b773c816b654eb9478829ebf24b7ac322">ca31904</a>
 - <a href="https://github.com/sabertazimi/dotfiles/commit/1d1a381c5718a05488399c064d0b69f09cb58dac">1d1a381</a>
 - <a href="https://github.com/sabertazimi/dotfiles/commit/598b38699295d1ba461cfaf52dfa7c51a33f96da">598b386</a>

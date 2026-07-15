@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/skills/commit/29751299eccffbd4150dbcec430c8abd5762883d">2975129</a>: chore(agent): replace `CLAUDE.md` with `AGENTS.md` symlink
+- <a href="https://github.com/sabertazimi/skills/commit/223587a917aedbaffd44d9ca7a9e9d8ab5a17194">223587a</a>: chore(deps): update pnpm to v11.7.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
